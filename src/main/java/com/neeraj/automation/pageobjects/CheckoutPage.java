@@ -1,4 +1,4 @@
-package rahulshettyacademy.pageobjects;
+package com.neeraj.automation.pageobjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-import rahulshettyacademy.AbstractComponents.AbstractComponent;
+import com.neeraj.automation.AbstractComponents.AbstractComponent;
 
 public class CheckoutPage extends AbstractComponent {
 

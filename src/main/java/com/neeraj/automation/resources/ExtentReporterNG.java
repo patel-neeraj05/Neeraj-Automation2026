@@ -1,4 +1,4 @@
-package rahulshettyacademy.resources;
+package com.neeraj.automation.resources;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;

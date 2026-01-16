@@ -1,4 +1,4 @@
-package rahulshettyacademy.TestComponents;
+package com.neeraj.automation.TestComponents;
 
 import java.io.IOException;
 
@@ -11,7 +11,7 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 
-import rahulshettyacademy.resources.ExtentReporterNG;
+import com.neeraj.automation.resources.ExtentReporterNG;
 
 public class Listeners extends BaseTest implements ITestListener{
 	ExtentTest test;

@@ -1,4 +1,4 @@
-package rahulshettyacademy.stepDefinitions;
+package com.neeraj.automation.stepDefinitions;
 
 import java.io.IOException;
 import java.util.List;
@@ -9,12 +9,12 @@ import org.testng.Assert;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import rahulshettyacademy.TestComponents.BaseTest;
-import rahulshettyacademy.pageobjects.CartPage;
-import rahulshettyacademy.pageobjects.CheckoutPage;
-import rahulshettyacademy.pageobjects.ConfirmationPage;
-import rahulshettyacademy.pageobjects.LandingPage;
-import rahulshettyacademy.pageobjects.ProductCatalogue;
+import com.neeraj.automation.TestComponents.BaseTest;
+import com.neeraj.automation.pageobjects.CartPage;
+import com.neeraj.automation.pageobjects.CheckoutPage;
+import com.neeraj.automation.pageobjects.ConfirmationPage;
+import com.neeraj.automation.pageobjects.LandingPage;
+import com.neeraj.automation.pageobjects.ProductCatalogue;
 
 public class StepDefinitionImpl extends BaseTest{
 

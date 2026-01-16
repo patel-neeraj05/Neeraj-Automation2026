@@ -1,4 +1,4 @@
-package rahulshettyacademy.tests;
+package com.neeraj.automation.tests;
 
 import org.testng.annotations.Test;
 import org.testng.AssertJUnit;
@@ -9,12 +9,12 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import rahulshettyacademy.TestComponents.BaseTest;
-import rahulshettyacademy.TestComponents.Retry;
-import rahulshettyacademy.pageobjects.CartPage;
-import rahulshettyacademy.pageobjects.CheckoutPage;
-import rahulshettyacademy.pageobjects.ConfirmationPage;
-import rahulshettyacademy.pageobjects.ProductCatalogue;
+import com.neeraj.automation.TestComponents.BaseTest;
+import com.neeraj.automation.TestComponents.Retry;
+import com.neeraj.automation.pageobjects.CartPage;
+import com.neeraj.automation.pageobjects.CheckoutPage;
+import com.neeraj.automation.pageobjects.ConfirmationPage;
+import com.neeraj.automation.pageobjects.ProductCatalogue;
 
 public class ErrorValidationsTest extends BaseTest {
 

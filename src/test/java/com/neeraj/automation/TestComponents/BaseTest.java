@@ -1,4 +1,4 @@
-package rahulshettyacademy.TestComponents;
+package com.neeraj.automation.TestComponents;
 
 import org.testng.annotations.AfterMethod;
 
@@ -28,7 +28,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import rahulshettyacademy.pageobjects.LandingPage;
+import com.neeraj.automation.pageobjects.LandingPage;
 
 public class BaseTest {
 

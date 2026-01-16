@@ -1,4 +1,4 @@
-package rahulshettyacademy.AbstractComponents;
+package com.neeraj.automation.AbstractComponents;
 
 import java.time.Duration;
 
@@ -10,8 +10,8 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import rahulshettyacademy.pageobjects.CartPage;
-import rahulshettyacademy.pageobjects.OrderPage;
+import com.neeraj.automation.pageobjects.CartPage;
+import com.neeraj.automation.pageobjects.OrderPage;
 
 public class AbstractComponent {
 	

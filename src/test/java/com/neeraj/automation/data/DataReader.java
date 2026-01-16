@@ -1,4 +1,4 @@
-package rahulshettyacademy.data;
+package com.neeraj.automation.data;
 
 import java.io.File;
 import java.io.IOException;
